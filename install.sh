@@ -26,6 +26,10 @@
 
 # cp -f ./powerlevel10k.zsh-theme ~/powerlevel10k/powerlevel10k.zsh-theme
 
+
+# install nvm
+# brew install nvm
+
 echo "install completed"
 
 
