@@ -24,7 +24,7 @@
 
 # copy powerlevel10k to destination
 
-# cp -r ./powerlevel10k ~/powerlevel10k
+# cp -f ./powerlevel10k.zsh-theme ~/powerlevel10k/powerlevel10k.zsh-theme
 
 echo "install completed"
 
