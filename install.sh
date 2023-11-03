@@ -26,6 +26,8 @@
 
 # cp -f ./powerlevel10k.zsh-theme ~/powerlevel10k/powerlevel10k.zsh-theme
 
+# copy p10k config to destination
+# cat ./.p10k.zsh >> ~/.p10k.zsh
 
 # install nvm
 # brew install nvm
